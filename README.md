@@ -1,4 +1,4 @@
-Sorting Types App contains differnent sorting types and method for sorting Linked List Data Stuctures which is:
+Sorting Types App contains differnent sorting types and method for sorting **Linked List** Data Stucture which is:
 
 - **Insertion Sort**
 - **Quick Sort**
