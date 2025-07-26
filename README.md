@@ -4,3 +4,8 @@ Sorting Types App contains differnent sorting types and method for sorting **Lin
 - **Quick Sort**
 - **Quick Sort Random Pivot**
 - **Selection_Sort**
+
+
+
+
+Using My Custom Library + Linker for Build Linked List and Call sort algorithms
